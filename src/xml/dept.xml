@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deptlist>
+    <dept category="IT" count="10" mgr="jang">
+        <code>001</code>
+        <name>정보시스템팀</name>
+        <loc>4층</loc>
+        <tel>02-770-1111</tel>
+    </dept>
+
+    <dept category="IT">
+        <code>002</code>
+        <name>시스템지원팀</name>
+        <loc>4층</loc>
+        <tel>02-770-1112</tel>
+    </dept>
+
+    <dept category="영업">
+        <code>003</code>
+        <name>기업영업팀</name>
+        <loc state="임대">7층</loc>
+        <tel>02-770-1115</tel>
+    </dept>
+
+    <dept category="영업">
+        <code>004</code>
+        <name>영업1팀</name>
+        <loc>7층</loc>
+        <tel>02-770-1115</tel>
+    </dept>
+</deptlist>
